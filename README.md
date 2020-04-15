@@ -2,15 +2,13 @@
 
 ![Logo](https://i.imgur.com/LwxSyG0.jpg)
 
-This project returns known prayers. It's intended to response websites with Prays in Portuguese(PT-BR).
+This project returns known prayers. It's intended to return prays(in Portuguese(PT-BR)) for websites.
 
 ## Technologies
 
-`
 - Python 
 - Flask
 - MongoDB
-`
 
 ## MongoDB Document
 
