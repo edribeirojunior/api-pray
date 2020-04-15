@@ -1,6 +1,6 @@
 ## API-Pray
 
-![Logo](https://imgur.com/a/MGm0vUI)
+![Logo](https://i.imgur.com/LwxSyG0.jpg)
 
 This project returns known prayers. It's intended to response websites with Prays in Portuguese(PT-BR).
 
@@ -16,5 +16,5 @@ This project returns known prayers. It's intended to response websites with Pray
 
 This is a example of a Document created in MongoDB: 
 
-![MongoDB Document](https://imgur.com/a/JvJkx84)
+![MongoDB Document](https://i.imgur.com/kSl4y1S.jpg)
 
